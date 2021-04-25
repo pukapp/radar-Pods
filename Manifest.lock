@@ -249,7 +249,7 @@ DEPENDENCIES:
   - YapDatabase/SQLCipher (from `https://github.com/signalapp/YapDatabase.git`, branch `signal-release`)
 
 SPEC REPOS:
-  https://github.com/CocoaPods/Specs.git:
+  https://github.com/cocoapods/specs.git:
     - AFNetworking
     - BaiduMapKit
     - BMKLocationKit
@@ -345,7 +345,7 @@ SPEC CHECKSUMS:
   SAMKeychain: 483e1c9f32984d50ca961e26818a534283b4cd5c
   SignalCoreKit: c2d8132cdedb95d35eb2f8ae7eac0957695d0a8b
   SignalMetadataKit: 6fa5e9a53c7f104568662521a2f3874672ff7a02
-  SignalServiceKit: 481ebf93eedba1fab01150fec6f417217f5577bb
+  SignalServiceKit: f7f4fcbf07274f58c355670dfaed7048c03440fc
   SQLCipher: 4636a257060f6f1b4e143a143028b61a2b462d0d
   SSZipArchive: 41455d4b8d2b6ab93990820b50dc697c2554a322
   Starscream: ef3ece99d765eeccb67de105bfa143f929026cf5
@@ -355,4 +355,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: e0b75039ccf141b619ee7fbc23953425562cd0bd
 
-COCOAPODS: 1.9.2
+COCOAPODS: 1.5.3
