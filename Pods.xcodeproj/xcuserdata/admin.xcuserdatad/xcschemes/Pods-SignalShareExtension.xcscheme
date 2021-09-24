@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B703B7CBBDB794AD42CE4E3C289C6403"
-               BuildableName = "Pods-SignalShareExtension.framework"
+               BuildableName = "Pods_SignalShareExtension.framework"
                BlueprintName = "Pods-SignalShareExtension"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>

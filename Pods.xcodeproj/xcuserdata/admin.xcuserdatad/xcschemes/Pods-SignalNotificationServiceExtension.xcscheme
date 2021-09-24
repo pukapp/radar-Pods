@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "61BF15E3D6FA5088314EBC66D8956162"
-               BuildableName = "Pods-SignalNotificationServiceExtension.framework"
+               BuildableName = "Pods_SignalNotificationServiceExtension.framework"
                BlueprintName = "Pods-SignalNotificationServiceExtension"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>

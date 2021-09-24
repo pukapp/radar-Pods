@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8FFBCEECC4132B38ED1C01DB01496A49"
-               BuildableName = "Pods-SignalMessaging.framework"
+               BuildableName = "Pods_SignalMessaging.framework"
                BlueprintName = "Pods-SignalMessaging"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
