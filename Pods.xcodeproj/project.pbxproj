@@ -14292,6 +14292,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 133E7FC468F62B695F6A150525ED02B0 /* PureLayout.release.xcconfig */;
 			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -16758,6 +16759,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 6BBCF68CA49A7BD70ECC6756DFC316CD /* SwiftMessages.release.xcconfig */;
 			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
